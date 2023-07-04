@@ -1,0 +1,13 @@
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe.config
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.exe
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\bin\Debug\CRUDUsingMySqlAndCSharp.pdb
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\bin\Debug\MySql.Data.dll
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.AssemblyReference.cache
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form1.resources
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Form2.resources
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.Properties.Resources.resources
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.GenerateResource.cache
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.CoreCompileInputs.cache
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.csproj.CopyComplete
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.exe
+C:\Users\proth\Desktop\SinleCrudC#\CRUDUsingMySqlAndCSharp\obj\Debug\CRUDUsingMySqlAndCSharp.pdb

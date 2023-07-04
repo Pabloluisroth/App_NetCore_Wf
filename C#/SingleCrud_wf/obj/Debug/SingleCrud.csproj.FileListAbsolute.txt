@@ -1,0 +1,196 @@
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\proth\Documents\GitHub\SingleCrud-\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Documentos\GitHub\SingleCrud\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Login.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\Nueva carpeta (2)\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\bin\Debug\MySql.Data.dll
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.WellcomeForm.resources
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\No\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form2.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form3.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Form4.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.WellcomeForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.FormShare.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.NoteForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\SingleCrud\obj\Debug\SingleCrud.ScreenShotForm.resources
+C:\Users\proth\Desktop\SingleCrud\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.NoteForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.ModifyForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.AddForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.DeleteForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.SearchForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.ShareForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.ScreenShotForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.WellcomeForm.resources
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\proth\Desktop\Nueva carpeta\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.NoteForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.ModifyForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.AddForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.DeleteForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.SearchForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.ShareForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.ScreenShotForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.WellcomeForm.resources
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\proth\Desktop\SingleCrud\obj\Debug\SingleCrud.Views.Main_Form.MDIParent1.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.NoteForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.ModifyForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.AddForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.DeleteForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.SearchForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.FormInitiate.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.FormPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.ShareForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.LoginForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.RegisterForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.ScreenShotForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.WellcomeForm.resources
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\bin\Debug\SingleCrud.exe.config
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\bin\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\bin\Debug\SingleCrud.pdb
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.exe
+C:\Users\pablo\OneDrive\Escritorio\C#\SingleCrud\obj\Debug\SingleCrud.pdb
